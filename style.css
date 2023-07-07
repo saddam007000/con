@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.aa{
+    width: 1440px;
+    height: 3200px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.aa1{
+    width: 1200px;
+    height: 349px;
+    margin: 0 auto;
+    
+}
+
+.uu{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.stor i{
+    color: white;
+    font-size: 40px;
+}
+
+.s1{
+    width: 187px;
+    height: 63px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-left: 20px;
+}
+
+.stor1 i{
+    color: white;
+    font-size: 35px;
+}
+
+.tex p{
+    line-height:151%;
+}
+
+.tex h2{
+    line-height: 138%;
+    color: #1786F9;
+}
+
+.tex{
+    margin-top: 20px;
+}
+
+.stor span{
+    font-size: 23px;
+}
+.stor p{
+    font-size: 14px;
+}
+
+.stor1 span{
+    font-size: 18px;
+}
+
+.stor1 p{
+    font-size: 14px;
+}
+
+.aa2{
+    margin-top: 200px;
+}
+
+
+
+.aa3{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.ah{
+    display: flex;
+    gap: 170px;
+    margin-top: 12px;
+}
+.ah1{
+    display: flex;
+    gap: 250px;
+    margin-top: 20px;
+}
+.bank{
+    display: flex;
+    gap: 10px;
+}
+.bank1{
+    display: flex;
+    gap: 10px;
+}
+
+.sam{
+    display: flex;
+    gap: 110px;
+}
+
+.tel h2{
+    margin-top: 10px;
+    color: #1786F9;
+}
+
+.iph img{
+    border-radius: 20px;
+}
+
+.tel img{
+    border-radius: 20px;
+}
+.bank{
+    margin-top: 20px;
+}
+
+.aa2 h2{
+    color: #1786F9;
+}
+
+.aa3 h2{
+    color: #1786F9;
+}
+
+.section2 button{
+    width: 286px;
+    height: 54px;
+    background-color: #F8D617;
+    box-shadow: 1px 4px 6px 0px rgba(19, 197, 78, 0.25);
+    border: 1px solid #F8D617;
+    border-radius: 7px;
+}
+
+.but1{
+    margin-top: 20px;
+}
+.pho1 h1{
+    margin-top: 10px;
+    color: #1786F9;
+}
+
+.pho1 p{
+    margin-top: 15px;
+    line-height: 175%;
+}
+
+.aa3 button{
+    width: 286px;
+    height: 54px;
+    background-color: #F8D617;
+    box-shadow: 1px 4px 6px 0px rgba(19, 167, 54, 0.25);
+    border: 1px solid #F8D617;
+    border-radius: 7px;
+}
+
+.pho3 p{
+    margin-top: 20px;
+}
+
+.pho4 p{
+    margin-top: 20px;
+}
+
+.pho4 button{
+    margin-top: 24px;
+}
+
+.aa4{
+    margin-top: 200px;
+}
+
+.cap{
+    margin-top: 200px;
+}
+
+.aa{
+    display: flex;
+    justify-content: space-between;
+}
+
+.reci{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.meh{
+    position: relative;
+}
+.meh1 img{
+    position: absolute;
+    margin-top: -240px;
+    padding-left: 230px;
+}
+
+.app1 h1{
+    margin-top: 20px;
+    color: #171F4E;
+
+}
+.reci{
+    margin-top: 20px;
+}
+
+.but2 button{
+    width: 301px;
+    height: 54px;
+    background-color: #F8D617;
+    border-radius: 7px;
+    box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 30px;
+    border: 2px solid #F8D617;
+}
+
+.cap button{
+    margin-top: 54px;
+}
+
+.meh img{
+    position: absolute;
+    margin-top: -360px;
+    padding-left: 25px;
+}
+.bac{
+    position: relative;
+    width: 544px;
+    height: 318px;
+    background-color: #CEDFFF;
+    border-radius: 18px;
+}
+
+.cap .bac{
+    position: relative;
+    width: 544px;
+    height: 318px;
+    background-color: #FFEDED;
+    border-radius: 18px;
+}
+
+.aa{
+    margin-top: 100px;
+}
+
+.text1{
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.ruch{
+    align-items: center;
+    text-align: center;
+}
+
+.text1 h1{
+font-size: 40px;
+color: #171F4E;
+}
+
+.icons p{
+    font-size: 24px;
+    color: #000000;
+}
